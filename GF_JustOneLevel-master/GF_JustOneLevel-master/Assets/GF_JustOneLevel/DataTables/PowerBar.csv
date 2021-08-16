@@ -1,0 +1,5 @@
+﻿#,Id,AssetName,Color
+#,int,string,string
+#,编号,资源名称,颜色
+,1,HPBar,Red
+,2,MPBar,Blue

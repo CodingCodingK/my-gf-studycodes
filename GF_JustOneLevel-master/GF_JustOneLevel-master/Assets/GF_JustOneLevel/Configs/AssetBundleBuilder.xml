@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <AssetBundleBuilder>
+    <Settings>
+      <InternalResourceVersion>67</InternalResourceVersion>
+      <WindowsSelected>False</WindowsSelected>
+      <MacOSXSelected>False</MacOSXSelected>
+      <IOSSelected>False</IOSSelected>
+      <AndroidSelected>True</AndroidSelected>
+      <WindowsStoreSelected>False</WindowsStoreSelected>
+      <ZipSelected>False</ZipSelected>
+      <RecordScatteredDependencyAssetsSelected>False</RecordScatteredDependencyAssetsSelected>
+      <UncompressedAssetBundleSelected>False</UncompressedAssetBundleSelected>
+      <DisableWriteTypeTreeSelected>False</DisableWriteTypeTreeSelected>
+      <DeterministicAssetBundleSelected>True</DeterministicAssetBundleSelected>
+      <ForceRebuildAssetBundleSelected>False</ForceRebuildAssetBundleSelected>
+      <IgnoreTypeTreeChangesSelected>False</IgnoreTypeTreeChangesSelected>
+      <AppendHashToAssetBundleNameSelected>False</AppendHashToAssetBundleNameSelected>
+      <ChunkBasedCompressionSelected>True</ChunkBasedCompressionSelected>
+      <BuildEventHandlerTypeName>
+      </BuildEventHandlerTypeName>
+      <OutputDirectory>C:/Users/mutou/Documents/Unity3D/GF_JustOneLevel/Packages</OutputDirectory>
+    </Settings>
+  </AssetBundleBuilder>
+</UnityGameFramework>
