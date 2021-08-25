@@ -51,14 +51,18 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Base\ManagerBase.cs" />
-     <Compile Include="Assets\Scripts\Base\ScriptSingleton.cs" />
-     <Compile Include="Assets\Scripts\Base\FrameworkEntry.cs" />
-     <Compile Include="Assets\Scripts\Fsm\Fsm.cs" />
      <Compile Include="Assets\Scripts\Fsm\FsmManager.cs" />
+     <Compile Include="Assets\Scripts\Fsm\Fsm.cs" />
+     <Compile Include="Assets\Scripts\Procedure\ProcedureBase.cs" />
      <Compile Include="Assets\Scripts\Fsm\FsmState.cs" />
      <Compile Include="Assets\Scripts\Fsm\IFsm.cs" />
-     <Compile Include="Assets\Scripts\Procedure\ProcedureBase.cs" />
+     <Compile Include="Assets\Scripts\Base\ScriptSingleton.cs" />
      <Compile Include="Assets\Scripts\Procedure\ProcedureManager.cs" />
+     <Compile Include="Assets\Scripts\Base\FrameworkEntry.cs" />
+     <Compile Include="Assets\Test\Procedure_Start.cs" />
+     <Compile Include="Assets\Test\Procedure_Play.cs" />
+     <Compile Include="Assets\Test\Procedure_Over.cs" />
+     <Compile Include="Assets\Test\ProcedureTestMain.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/My Github/my-gf-studycodes/my-SimpleGameFramework/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

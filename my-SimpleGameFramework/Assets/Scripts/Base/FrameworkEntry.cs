@@ -39,7 +39,7 @@ public class FrameworkEntry : ScriptSingleton<FrameworkEntry>
 
     #region 对外公开的接口
     /// <summary>
-    /// 获取指定管理器
+    /// 获取指定Manager，没找到就创建
     /// </summary>
     public T GetManager<T>() where T : ManagerBase
     {

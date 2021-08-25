@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// 状态基类
+/// 状态基类，是状态机的一个状态P
 /// </summary>
 /// <typeparam name="T">状态持有者类型</typeparam>
 public class FsmState<T> where T : class

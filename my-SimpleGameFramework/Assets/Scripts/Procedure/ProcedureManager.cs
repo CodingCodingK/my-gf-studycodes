@@ -69,4 +69,47 @@ public class ProcedureManager : ManagerBase{
     {
         
     }
+    
+    
+    /// <summary>
+    /// 添加流程
+    /// </summary>
+    public void AddProcedure(ProcedureBase procedure)
+    {
+        if (procedure == null)
+        {
+            Debug.LogError("要添加的流程为空");
+            return;
+        }
+        m_procedures.Add(procedure);
+    }
+ 
+    /// <summary>
+    /// 设置入口流程
+    /// </summary>
+    /// <param name="procedure"></param>
+    public void SetEntranceProcedure(ProcedureBase procedure)
+    {
+        m_EntranceProcedure = procedure;
+    }
+    
+    
+    
+    
+    /// <summary>
+    /// 创建流程状态机
+    /// </summary>
+    public void CreateProceduresFsm()
+    {
+        m_ProcedureFsm = m_FsmManager.CreateFsm(this, "", m_procedures.ToArray());
+ 
+        if (m_EntranceProcedure == null)
+        {
+            Debug.LogError("入口流程为空，无法开始流程");
+            return;
+        }
+ 
+        //开始流程
+        m_ProcedureFsm.Start(m_EntranceProcedure.GetType());
+    }
 }
