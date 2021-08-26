@@ -1,16 +1,16 @@
-﻿
+﻿using UnityEngine;
 
-using DefaultNamespace;
-using UnityEngine;
-
-public class Procedure_Start : ProcedureBase
+namespace Test
 {
-    public override void OnUpdate(Fsm<ProcedureManager> fsm, float elapseSeconds, float realElapseSeconds)
+    public class Procedure_Start : ProcedureBase
     {
-        base.OnUpdate(fsm, elapseSeconds, realElapseSeconds);
-        if (Input.GetMouseButtonDown(0))
+        public override void OnUpdate(Fsm<ProcedureManager> fsm, float elapseSeconds, float realElapseSeconds)
         {
-            ChangeState<Procedure_Play>(fsm);
+            base.OnUpdate(fsm, elapseSeconds, realElapseSeconds);
+            if (Input.GetMouseButtonDown(0))
+            {
+                ChangeState<Procedure_Play>(fsm);
+            }
         }
-    }
+    }  
 }

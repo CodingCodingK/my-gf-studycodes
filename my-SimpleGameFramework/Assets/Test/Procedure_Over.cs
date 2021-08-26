@@ -1,15 +1,19 @@
 ﻿using UnityEngine;
 
-public class Procedure_Over : ProcedureBase
+namespace Test
 {
-    public override void OnUpdate(Fsm<ProcedureManager> fsm, float elapseSeconds, float realElapseSeconds)
+    public class Procedure_Over : ProcedureBase
     {
-        base.OnUpdate(fsm, elapseSeconds, realElapseSeconds);
-        if (Input.GetMouseButtonDown(0))
+        public override void OnUpdate(Fsm<ProcedureManager> fsm, float elapseSeconds, float realElapseSeconds)
         {
-            ChangeState<Procedure_Start>(fsm);
+            base.OnUpdate(fsm, elapseSeconds, realElapseSeconds);
+            if (Input.GetMouseButtonDown(0))
+            {
+                ChangeState<Procedure_Start>(fsm);
+            }
         }
     }
 }
+
 
  

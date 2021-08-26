@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace DefaultNamespace
+namespace Test
 {
     public class ProcedureTestMain : MonoBehaviour {
  
@@ -21,5 +21,5 @@ namespace DefaultNamespace
             procedureManager.CreateProceduresFsm();
         }
  
-    }
+    } 
 }

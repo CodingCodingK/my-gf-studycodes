@@ -51,6 +51,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Base\ManagerBase.cs" />
+     <Compile Include="Assets\Scripts\DataNode\DataNode.cs" />
+     <Compile Include="Assets\Scripts\DataNode\DataNodeManager.cs" />
      <Compile Include="Assets\Scripts\Fsm\FsmManager.cs" />
      <Compile Include="Assets\Scripts\Fsm\Fsm.cs" />
      <Compile Include="Assets\Scripts\Procedure\ProcedureBase.cs" />
@@ -59,6 +61,7 @@
      <Compile Include="Assets\Scripts\Base\ScriptSingleton.cs" />
      <Compile Include="Assets\Scripts\Procedure\ProcedureManager.cs" />
      <Compile Include="Assets\Scripts\Base\FrameworkEntry.cs" />
+     <Compile Include="Assets\Test\DataNodeTestMain.cs" />
      <Compile Include="Assets\Test\Procedure_Start.cs" />
      <Compile Include="Assets\Test\Procedure_Play.cs" />
      <Compile Include="Assets\Test\Procedure_Over.cs" />
