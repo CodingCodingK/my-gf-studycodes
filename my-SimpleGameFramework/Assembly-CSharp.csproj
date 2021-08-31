@@ -51,21 +51,29 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Base\ManagerBase.cs" />
-     <Compile Include="Assets\Scripts\DataNode\DataNode.cs" />
-     <Compile Include="Assets\Scripts\DataNode\DataNodeManager.cs" />
+     <Compile Include="Assets\Scripts\Event\EventManager.cs" />
+     <Compile Include="Assets\Scripts\Event\EventPool.cs" />
+     <Compile Include="Assets\Scripts\Event\GlobalEventArgs.cs" />
+     <Compile Include="Assets\Test\Event\EventTestArgs.cs" />
+     <Compile Include="Assets\Test\Event\EventTestMain.cs" />
+     <Compile Include="Assets\Test\ProcedureTestMain.cs" />
      <Compile Include="Assets\Scripts\Fsm\FsmManager.cs" />
      <Compile Include="Assets\Scripts\Fsm\Fsm.cs" />
+     <Compile Include="Assets\Test\Procedure_Start.cs" />
+     <Compile Include="Assets\Test\Procedure_Over.cs" />
+     <Compile Include="Assets\Scripts\DataNode\DataNodeManager.cs" />
+     <Compile Include="Assets\Scripts\DataNode\DataNode.cs" />
      <Compile Include="Assets\Scripts\Procedure\ProcedureBase.cs" />
      <Compile Include="Assets\Scripts\Fsm\FsmState.cs" />
      <Compile Include="Assets\Scripts\Fsm\IFsm.cs" />
      <Compile Include="Assets\Scripts\Base\ScriptSingleton.cs" />
+     <Compile Include="Assets\Test\Procedure_Play.cs" />
      <Compile Include="Assets\Scripts\Procedure\ProcedureManager.cs" />
      <Compile Include="Assets\Scripts\Base\FrameworkEntry.cs" />
      <Compile Include="Assets\Test\DataNodeTestMain.cs" />
-     <Compile Include="Assets\Test\Procedure_Start.cs" />
-     <Compile Include="Assets\Test\Procedure_Play.cs" />
-     <Compile Include="Assets\Test\Procedure_Over.cs" />
-     <Compile Include="Assets\Test\ProcedureTestMain.cs" />
+     <Compile Include="Assets\Scripts\ReferencePool\IReference.cs" />
+     <Compile Include="Assets\Scripts\ReferencePool\ReferenceCollection.cs" />
+     <Compile Include="Assets\Scripts\ReferencePool\ReferencePool.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/My Github/my-gf-studycodes/my-SimpleGameFramework/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
