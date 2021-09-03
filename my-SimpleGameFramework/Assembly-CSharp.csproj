@@ -51,6 +51,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Base\ManagerBase.cs" />
+     <Compile Include="Assets\Scripts\Base\Task\ITask.cs" />
+     <Compile Include="Assets\Scripts\Base\Task\ITaskAgent.cs" />
+     <Compile Include="Assets\Scripts\Base\Task\TaskPool.cs" />
      <Compile Include="Assets\Scripts\Event\EventManager.cs" />
      <Compile Include="Assets\Scripts\Event\EventPool.cs" />
      <Compile Include="Assets\Scripts\Event\GlobalEventArgs.cs" />
