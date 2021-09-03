@@ -306,6 +306,7 @@ namespace GameFramework.ObjectPool
                 if (internalObject != null)
                 {
                     internalObject.Unspawn();
+                    // 如果回收完了某对象，发现池子容量已超出上限，且该对象未被引用，就执行一次整体释放
                     if (Count > m_Capacity && internalObject.SpawnCount <= 0)
                     {
                         Release();

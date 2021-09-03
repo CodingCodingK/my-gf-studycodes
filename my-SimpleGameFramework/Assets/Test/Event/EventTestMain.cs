@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Test.Event
+namespace Test
 {
     public class EventTestMain : MonoBehaviour {
  

@@ -1,30 +1,33 @@
-﻿public class EventTestArgs : GlobalEventArgs
+﻿namespace Test
 {
- 
-    public string m_Name;
- 
- 
-    public override int Id
+    public class EventTestArgs : GlobalEventArgs
     {
-        get
+ 
+        public string m_Name;
+ 
+ 
+        public override int Id
         {
-            return 1;
+            get
+            {
+                return 1;
+            }
         }
-    }
  
-    public override void Clear()
-    {
-        m_Name = string.Empty;
-    }
+        public override void Clear()
+        {
+            m_Name = string.Empty;
+        }
  
  
-    /// <summary>
-    /// 事件填充构造函数
-    /// </summary>
-    public EventTestArgs Fill(string name)
-    {
-        m_Name = name;
+        /// <summary>
+        /// 事件填充构造函数
+        /// </summary>
+        public EventTestArgs Fill(string name)
+        {
+            m_Name = name;
  
-        return this;
+            return this;
+        }
     }
 }
