@@ -1,0 +1,6 @@
+#	配置文件从2?始，?取?第一列需要跳?					
+#	int	string	string	int	int	int
+#	ID	姓名	属性	ATK	DEF	SPD
+	1	GUAJI_A	fire	55	40	50
+	2	GUAJI_B	water	20	100	30
+	3	GUAJI_C	wind	40	20	100

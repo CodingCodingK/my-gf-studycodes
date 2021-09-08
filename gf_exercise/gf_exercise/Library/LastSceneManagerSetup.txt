@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Exercise/demo3_LoadUI/demo3.unity
+- path: Assets/Exercise/demo10_FSM/demo10.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

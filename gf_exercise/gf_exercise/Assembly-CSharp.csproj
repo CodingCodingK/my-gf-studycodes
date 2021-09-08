@@ -50,17 +50,30 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Example\ProcedureExample.cs" />
-     <Compile Include="Assets\Exercise\demo1_HelloWorld\helloworld.cs" />
-     <Compile Include="Assets\Exercise\demo2_ChangeSceneAndProcedure\ProcedureGame.cs" />
-     <Compile Include="Assets\Exercise\demo2_ChangeSceneAndProcedure\ProcedureLaunch.cs" />
-     <Compile Include="Assets\Exercise\demo2_ChangeSceneAndProcedure\ProcedureMenu.cs" />
+     <Compile Include="Assets\Exercise\demo5_ReadConfigFile\Character.cs" />
      <Compile Include="Assets\Exercise\demo2_ChangeSceneAndProcedure\ButtonController.cs" />
+     <Compile Include="Assets\Exercise\demo2_ChangeSceneAndProcedure\ProcedureGame.cs" />
+     <Compile Include="Assets\Exercise\demo1_HelloWorld\helloworld.cs" />
+     <Compile Include="Assets\Exercise\demo4_EventSubscribe\ProcedureMenu.cs" />
      <Compile Include="Assets\Exercise\demo3_LoadUI\ProcedureLaunch.cs" />
      <Compile Include="Assets\Exercise\demo3_LoadUI\ProcedureMenu.cs" />
+     <Compile Include="Assets\Exercise\demo6_CreatePrefab\ProcedureLaunch.cs" />
+     <Compile Include="Assets\Exercise\demo5_ReadConfigFile\ProcedureLaunch.cs" />
+     <Compile Include="Assets\Exercise\demo4_EventSubscribe\ProcedureLaunch.cs" />
+     <Compile Include="Assets\Exercise\demo7_WebRequest\ProcedureLaunch.cs" />
+     <Compile Include="Assets\Exercise\demo4_EventSubscribe\UI_Menu_Logic.cs" />
+     <Compile Include="Assets\Exercise\demo6_CreatePrefab\CubeLogic.cs" />
+     <Compile Include="Assets\Exercise\demo2_ChangeSceneAndProcedure\ProcedureLaunch.cs" />
+     <Compile Include="Assets\Example\ProcedureExample.cs" />
      <Compile Include="Assets\Exercise\demo3_LoadUI\UI_Menu_Logic.cs" />
+     <Compile Include="Assets\Exercise\demo2_ChangeSceneAndProcedure\ProcedureMenu.cs" />
+     <Compile Include="Assets\Exercise\demo10_FSM\ProcedureLaunch.cs" />
+     <Compile Include="Assets\Exercise\demo10_FSM\CubeLogic.cs" />
+     <Compile Include="Assets\Exercise\demo10_FSM\Cube_IdleState.cs" />
+     <Compile Include="Assets\Exercise\demo10_FSM\Cube_WalkState.cs" />
      <None Include="Assets\GameFramework\Libraries\link.xml" />
      <None Include="Assets\GameFramework\Libraries\GameFramework.xml" />
+     <None Include="Assets\Exercise\demo5_ReadConfigFile\plhj_user.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/My Github/my-gf-studycodes/gf_exercise/gf_exercise/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

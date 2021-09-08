@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Exercise/demo3_LoadUI/demo3_Menu.unity
     guid: aedcc82ceb459f243bbefc36e99be66c
+  - enabled: 1
+    path: Assets/Exercise/demo4_EventSubscribe/demo4.unity
+    guid: 5f223ea389ae6f940aec359ed2cf498d
+  - enabled: 1
+    path: Assets/Exercise/demo4_EventSubscribe/demo4_Menu.unity
+    guid: 1d03a5ee0d79b6545827bf9801587452
   m_configObjects: {}
