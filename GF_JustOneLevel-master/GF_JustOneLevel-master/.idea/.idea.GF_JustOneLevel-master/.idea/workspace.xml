@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f7155dc-ef16-48d5-b9b5-9a82c55b3654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GF_JustOneLevel-master/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GF_JustOneLevel-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GF_JustOneLevel/Scripts/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameFramework/bin/Debug.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameFramework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GameFramework.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityGameFramework.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityGameFramework.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityGameFramework.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityGameFramework.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/04/04befbaaa4a8e13b0afc3b23e971de61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/0c/0cdbee1a8901a7965cae9c47814b21c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/0f/0fdebd28ed9796348c31de80245a7d11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/15/1501a9d653fb1b4d0b2dd2a0c6502e3b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/1d/1da67f19a9f4b02df8ed17a7cfa26066" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/24/24620b27d0defc1b13043d8112617870" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/2c/2c202c6a67cbe69846d71391d701e6b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/2e/2e693fcfd12751b5cb810afdf2346ff9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/35/350b964134d2c2f0b437e9d3e38f1391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/39/398b4c8c0cd0856b7f0019b773764e6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/3b/3bd95a1e3bf9f66cba621c69f6c85390" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/3d/3d9b45f017b87be14126d1bca5e4c496" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/62/624bcaad731403f7f8cedfaf7be25aaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/63/63d536a727fb5662160ba6565730679f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/66/66ed7e588ce36764ac53f2a66cb2645b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/67/671a780f5918a3366f10158cbaf58295" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/68/68e540ead47b4f9e8c7e06c012dd5f06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/6a/6a4f88233083658e5285b80f6dc05da6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/6d/6dd13f27693aba08a4fc9118724caf64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/75/75a75ea20ed9802f20d1b6d2b2e3d810" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/8d/8d1e9cc2cdc5f83ed18d28d269f581e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/a7/a764f7c0fbc77017ca6a8e376769e0bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/af/af81bcd71d5e2d662b8d040fffdae00b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/b0/b0aa613c095e839283bc67ead8fc23db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/b6/b6919ae7fbf2e6b6d5a40a9f9e4bba55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/b7/b751aec0ee95271daa0f6231d43b9eda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/bb/bb33cd40bf1e032286a816906a13b4d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/c3/c3cf678532f3a1223a3053e41c311ad5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/cb/cba23c212d3bbccc05ed7ae66ea43657" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/da/da529c737dc83ec38bf062e4f908fe11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/e6/e60727e6203971b5476145369856322a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/e8/e8d5d88f429aad4f016dfcee14cf88fd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/f2/f24ce715b3db337ae9a92a4a7fee3e50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/f4/f481f6e6054bca9852f1d74b147b3ae5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/f5/f50eb7041ef867d5cac22ae7af0b60d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/Artifacts/f8/f824009528092e4cc2b1b9cc54c2c54b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/StateCache/MainStageHierarchy/67/676d946e9db5e2eb4f596e76c5c11b83.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../gf_exercise/gf_exercise/Library/StateCache/MainStageHierarchy/67/676d946e9db5e2eb4f596e76c5c11b83.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1xt3wpZTs3l8UhFT4bkvW0E39Qo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f7155dc-ef16-48d5-b9b5-9a82c55b3654" name="Default Changelist" comment="" />
+      <created>1631160798688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631160798688</updated>
+      <workItem from="1631160801888" duration="1541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
